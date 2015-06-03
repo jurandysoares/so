@@ -124,3 +124,10 @@ Bibliografia Básica
 
 Software(s) de Apoio
 --------------------
+
+* `Cygwin <http://cygwin.com/>`_
+* `GenyMotion <https://www.genymotion.com>`_
+* `OS Query <https://github.com/facebook/osquery/>`_
+* `Ubuntu <http://www.ubuntu.com/>`_
+* `VirtualBox <https://www.virtualbox.org/>`_
+* `Windows Virtual PC <http://www.microsoft.com/fr-FR/download/details.aspx?id=3702>`_
