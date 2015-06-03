@@ -55,9 +55,9 @@ Bases Científico-Tecnológicas (Conteúdos)
     * Utilitários
     * Ferramentas de desenvolvimento
 
-5. Comandos básicos do sistema
+  5. Comandos básicos do sistema
 
-6. Introdução à administração do sistema operacional
+  6. Introdução à administração do sistema operacional
 
     * Criação de grupos e contas de usuários
     * Definição de cotas de disco
@@ -67,7 +67,7 @@ Bases Científico-Tecnológicas (Conteúdos)
     * Iniciação e encerramento da execução de serviços do Linux
     * Manutenção de pacotes de programas do Linux
     
- * Sistema Operacional proprietário (WINDOWS) (60 h/a)
+* Sistema Operacional proprietário (WINDOWS) (60 h/a)
 
   7. Visão geral da família Windows
   8. Instalação e configuração do sistema operacional Windows Server
@@ -127,6 +127,7 @@ Software(s) de Apoio
 
 * `Cygwin <http://cygwin.com/>`_
 * `GenyMotion <https://www.genymotion.com>`_
+* `Microsoft DreamSpark <https://suap.ifrn.edu.br/microsoft/redirecionar_aluno/dreamspark/>`_
 * `OS Query <https://github.com/facebook/osquery/>`_
 * `Ubuntu <http://www.ubuntu.com/>`_
 * `VirtualBox <https://www.virtualbox.org/>`_
