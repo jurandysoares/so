@@ -127,7 +127,7 @@ Software(s) de Apoio
 
 * `Cygwin <http://cygwin.com/>`_
 * `GenyMotion <https://www.genymotion.com>`_
-* `Microsoft DreamSpark <https://suap.ifrn.edu.br/microsoft/redirecionar_aluno/dreamspark/>`_
+* `Microsoft DreamSpark <https://suap.ifrn.edu.br/microsoft/redirecionar_servidor/dreamspark/>`_
 * `OS Query <https://github.com/facebook/osquery/>`_
 * `Ubuntu <http://www.ubuntu.com/>`_
 * `VirtualBox <https://www.virtualbox.org/>`_
