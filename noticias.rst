@@ -2,6 +2,7 @@
 Notícias relacionadas à disciplina
 ===================================
 
+* 03/06/2015: `Windows will soon support the SSH encryption protocol for remote access <http://thenextweb.com/microsoft/2015/06/03/windows-will-soon-support-the-ssh-encryption-protocol-for-remote-access/>`_
 * 01/06/2015: `Conselho Escolar do Campus analisa calendário acadêmico 2015 <http://portal.ifrn.edu.br/campus/parnamirim/noticias/conselho-escolar-do-campus-delibera-sobre-calendario-academico-2015>`_
 * 01/06/2015: `The Inside Story of Google’s Bizarre Plunge Into VR <http://www.wired.com/2015/06/inside-story-googles-unlikely-leap-cardboard-vr/>`_
 * 25/05/2015: `Google Brillo pode ser o sistema operacional das casas inteligentes do futuro <http://m.gizmodo.uol.com.br/google-brillo-rumor/>`_
