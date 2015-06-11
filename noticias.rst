@@ -2,6 +2,7 @@
 Notícias relacionadas à disciplina
 ===================================
 
+* 11/06/2015: `Facebook and Microsoft just announced a monumental deal in virtual reality <http://www.businessinsider.com/facebook-microsoft-windows-10-2015-6>`_
 * 09/06/2015: `Supercomputador da IBM será atendente do Bradesco em 2016 <http://exame.abril.com.br/tecnologia/noticias/supercomputador-da-ibm-sera-atendente-do-bradesco-em-2016>`_ (Ver também [Watson_Suse]_)
 * 09/06/2015: `Lei proíbe celulares em sala de aula em Pernambuco <http://globotv.globo.com/rede-globo/bom-dia-brasil/v/lei-proibe-celulares-em-sala-de-aula-em-pernambuco/4239608/>`_
 * 09/06/2015: `Lucro 'concentrado' e dificuldades no Brasil: entenda o desafio do HSBC <http://www.bbc.com/portuguese/noticias/2015/06/150609_hsbc_crise_entenda_fd>`_ (Ver último parágrafo)
