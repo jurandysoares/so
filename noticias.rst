@@ -2,8 +2,9 @@
 Notícias relacionadas à disciplina
 ===================================
 
-* 11/06/2015: `Facebook and Microsoft just announced a monumental deal in virtual reality <http://www.businessinsider.com/facebook-microsoft-windows-10-2015-6>`_
-* 09/06/2015: `Supercomputador da IBM será atendente do Bradesco em 2016 <http://exame.abril.com.br/tecnologia/noticias/supercomputador-da-ibm-sera-atendente-do-bradesco-em-2016>`_ (Ver também [Watson_Suse]_)
+* 18/06/2015: `Soletta Project is a framework for making IoT devices <https://github.com/solettaproject/soletta>`_ (Via `Ulisses Furquim <https://www.facebook.com/ulisses.furquim/posts/850339095035134>`_)
+* 11/06/2015: `Facebook and Microsoft just announced a monumental deal in virtual reality <http://www.businessinsider.com/facebook-microsoft-windows-10-2015-6>`_ (Via `Ana Carolina <https://www.facebook.com/anacarolina.merighe/posts/1414809421886205>`_)
+* 09/06/2015: `Supercomputador da IBM será atendente do Bradesco em 2016 <http://exame.abril.com.br/tecnologia/noticias/supercomputador-da-ibm-sera-atendente-do-bradesco-em-2016>`_ (Via `Ana Carolina <https://www.facebook.com/anacarolina.merighe/posts/1413323172034830>`_; Ver também [Watson_Suse]_)
 * 09/06/2015: `Lei proíbe celulares em sala de aula em Pernambuco <http://globotv.globo.com/rede-globo/bom-dia-brasil/v/lei-proibe-celulares-em-sala-de-aula-em-pernambuco/4239608/>`_
 * 09/06/2015: `Lucro 'concentrado' e dificuldades no Brasil: entenda o desafio do HSBC <http://www.bbc.com/portuguese/noticias/2015/06/150609_hsbc_crise_entenda_fd>`_ (Ver último parágrafo)
 * 03/06/2015: `Windows will soon support the SSH encryption protocol for remote access <http://thenextweb.com/microsoft/2015/06/03/windows-will-soon-support-the-ssh-encryption-protocol-for-remote-access/>`_
