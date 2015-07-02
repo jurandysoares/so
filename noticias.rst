@@ -2,6 +2,7 @@
 Notícias relacionadas à disciplina
 ===================================
 
+* 01/07/2015: `O futuro do Linux sem Linus Torvalds <http://www.diolinux.com.br/2015/06/o-futuro-do-linux-sem-linus-torvalds.html>`_
 * 01/07/2015: `All commands sorted by votes | commandlinefu.com <http://www.commandlinefu.com/commands/browse/sort-by-votes>`_
 * 01/07/2015: `Command Line Kung Fu <http://blog.commandlinekungfu.com/>`_
 * 18/06/2015: `Soletta Project is a framework for making IoT devices <https://github.com/solettaproject/soletta>`_ (Via `Ulisses Furquim <https://www.facebook.com/ulisses.furquim/posts/850339095035134>`_)
