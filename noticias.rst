@@ -2,6 +2,8 @@
 Notícias relacionadas à disciplina
 ===================================
 
+* 29/07/2015: `Apps no menu iniciar e mais opções no mobile são trunfos do Windows 10 <http://tecnologia.uol.com.br/noticias/redacao/2015/07/29/apps-no-menu-iniciar-e-mais-opcoes-no-mobile-sao-trunfos-do-windows-10.htm>`_
+* 29/07/2015: `Windows 10: 12 fotos que mostram como o Windows mudou em 30 anos <http://www.bbc.com/portuguese/noticias/2015/07/150729_windows_retrospectiva_tg>`_
 * 01/07/2015: `O futuro do Linux sem Linus Torvalds <http://www.diolinux.com.br/2015/06/o-futuro-do-linux-sem-linus-torvalds.html>`_
 * 01/07/2015: `All commands sorted by votes | commandlinefu.com <http://www.commandlinefu.com/commands/browse/sort-by-votes>`_
 * 01/07/2015: `Command Line Kung Fu <http://blog.commandlinekungfu.com/>`_
