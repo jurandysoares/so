@@ -2,6 +2,7 @@
 Notícias relacionadas à disciplina
 ===================================
 
+* 25/08/2015: `Linus Torvalds Talks Linux Security at LinuxCon <http://www.eweek.com/enterprise-apps/linus-torvalds-talks-linux-security-at-linuxcon.html>`_
 * 18/08/2015: `Google’s WiFi router runs Linux, offers home automation hooks <http://linuxgizmos.com/googles-wifi-router-runs-linux-offers-home-automation-hooks/>`_
 * 29/07/2015: `Apps no menu iniciar e mais opções no mobile são trunfos do Windows 10 <http://tecnologia.uol.com.br/noticias/redacao/2015/07/29/apps-no-menu-iniciar-e-mais-opcoes-no-mobile-sao-trunfos-do-windows-10.htm>`_
 * 29/07/2015: `Windows 10: 12 fotos que mostram como o Windows mudou em 30 anos <http://www.bbc.com/portuguese/noticias/2015/07/150729_windows_retrospectiva_tg>`_
