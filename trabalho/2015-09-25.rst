@@ -7,6 +7,7 @@ Trabalho de Conclusão do 1º Semestre
 Faça um programa em Shell Script com os seguintes requisitos:
 
 * Seja útil (avaliado por 3 outros colegas);
+* Seja interativo;
 * Apresente mensagens em Português, Inglês e Espanhol, de acordo com o ambiente do usuário;
 * Registre em um banco de dados quem o utilizou (usuário), onde (host, diretório e terminal) e quando (data e horário);
 * Guarde estado na área do usuário (salvar dados no diretório em $HOME/.config/seuprograma/), com acesso exclusivo pelo usuário;
