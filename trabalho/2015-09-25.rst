@@ -27,3 +27,4 @@ Referências:
 * `Shell Script: tratamento de argumentos e opções (http://aurelio.net/shell/canivete/) <http://aurelio.net/shell/canivete/>`_
 * `Programação Shell (http://www.linuxfocus.org/Portugues/September2001/article216.shtml) <http://www.linuxfocus.org/Portugues/September2001/article216.shtml>`_
 * `Programação em Bash Shell (http://www.di.ubi.pt/~operativos/praticos/pdf/3-bash.pdf) <http://www.di.ubi.pt/~operativos/praticos/pdf/3-bash.pdf>`_
+* `Dialog: An Introductory Tutorial <http://www.linuxjournal.com/article/2807>`_
