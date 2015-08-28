@@ -13,7 +13,9 @@ Faça um programa em Shell Script com os seguintes requisitos:
 * Utilize os comandos internos do Bash;
 * Envolva entrada de dados pelo usuário (via linha de comando ou via diálogos);
 * Utilize funções de no máximo 25 linhas;
-* Seja gerenciado por um sistema de controle de versão (Mercurial).
+* Seja gerenciado por um sistema de controle de versão (Mercurial ou Git);
+* Tenha documentação no formato texto, HTML, PDF, E-book e Html Help (Arquivo de ajuda do Windows);
+* Tenha um instalador.
 
 
 Referências:
