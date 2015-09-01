@@ -2,6 +2,7 @@
 Notícias relacionadas à disciplina
 ===================================
 
+* 01/09/2015: `Open Sourcing Is No Longer Optional, Not Even for Apple <http://www.wired.com/2015/06/open-sourcing-no-longer-optional-not-even-apple/>`_
 * 25/08/2015: `Linus Torvalds Talks Linux Security at LinuxCon <http://www.eweek.com/enterprise-apps/linus-torvalds-talks-linux-security-at-linuxcon.html>`_
 * 18/08/2015: `Google’s WiFi router runs Linux, offers home automation hooks <http://linuxgizmos.com/googles-wifi-router-runs-linux-offers-home-automation-hooks/>`_
 * 29/07/2015: `Apps no menu iniciar e mais opções no mobile são trunfos do Windows 10 <http://tecnologia.uol.com.br/noticias/redacao/2015/07/29/apps-no-menu-iniciar-e-mais-opcoes-no-mobile-sao-trunfos-do-windows-10.htm>`_
