@@ -2,6 +2,7 @@
 Notícias relacionadas à disciplina
 ===================================
 
+* 29/08/2015: `Microsoft – Análise de Tráfego do Windows 10 – Para quais servidores ele envia suas informações <http://suporteninja.com/microsoft-analise-de-trafego-do-windows-10-para-quais-servidores-ele-envia-suas-informacoes>`_
 * 01/09/2015: `Open Sourcing Is No Longer Optional, Not Even for Apple <http://www.wired.com/2015/06/open-sourcing-no-longer-optional-not-even-apple/>`_
 * 25/08/2015: `Linus Torvalds Talks Linux Security at LinuxCon <http://www.eweek.com/enterprise-apps/linus-torvalds-talks-linux-security-at-linuxcon.html>`_
 * 18/08/2015: `Google’s WiFi router runs Linux, offers home automation hooks <http://linuxgizmos.com/googles-wifi-router-runs-linux-offers-home-automation-hooks/>`_
