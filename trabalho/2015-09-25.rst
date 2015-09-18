@@ -2,7 +2,7 @@ Trabalho de Conclusão do 1º Semestre
 ======================================
 
 :Disciplina: Fundamentos de Sistemas Operacionais
-:Entrega: 25 de setembro de 2015
+:Entrega: 30 de setembro de 2015
 
 Faça um programa em Shell Script com os seguintes requisitos:
 
@@ -15,7 +15,7 @@ Faça um programa em Shell Script com os seguintes requisitos:
 * Utilize os comandos internos do Bash;
 * Envolva entrada de dados pelo usuário (via linha de comando ou via diálogos);
 * Utilize funções de no máximo 25 linhas;
-* Seja gerenciado por um sistema de controle de versão (Mercurial ou Git);
+* Seja gerenciado por um sistema de controle de versão (Mercurial);
 * Tenha documentação no formato texto, HTML, PDF, E-book e Html Help (Arquivo de ajuda do Windows);
 * Tenha um instalador.
 
