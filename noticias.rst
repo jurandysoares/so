@@ -2,6 +2,7 @@
 Notícias relacionadas à disciplina
 ===================================
 
+* 25/09/2015: `Hackers invadem computadores e celulares e sequestram dados <http://g1.globo.com/fantastico/noticia/2015/10/hackers-invadem-computadores-e-celulares-e-sequestram-dados.html>`_
 * 18/09/2015: `Microsoft está criando a sua própria distribuição do Linux <Microsoft está criando a sua própria distribuição do Linux>`_
 * 18/09/2015: `Whoa. Microsoft Is Using Linux to Run Its Cloud <http://www.wired.com/2015/09/microsoft-using-linux-run-cloud/>`_
 * 29/08/2015: `Microsoft – Análise de Tráfego do Windows 10 – Para quais servidores ele envia suas informações <http://suporteninja.com/microsoft-analise-de-trafego-do-windows-10-para-quais-servidores-ele-envia-suas-informacoes>`_
