@@ -3,3 +3,4 @@
 * `TecNet: Permissões de compartilhamento e NTFS em um servidor de arquivos <https://technet.microsoft.com/pt-br/library/cc754178.aspx>`_
 * `Windows Server 2003: Permissões NTFS <http://juliobattisti.com.br/fabiano/artigos/permissoes_ntfs_2003.asp>`_
 * `TecNet: Manual do comando ICACLS <https://technet.microsoft.com/pt-br/library/cc753525(v=ws.10).aspx>`_
+* `Viewing, saving, and restoring NTFS permissions <http://www.sherweb.com/blog/viewing-saving-and-restoring-ntfs-permissions/>`_
