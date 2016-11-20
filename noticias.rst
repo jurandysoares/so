@@ -2,6 +2,7 @@
 Notícias relacionadas à disciplina
 ===================================
 
+* 22/10/2014: `ComputerWorld: Amazon takes aim at Microsoft's Active Directory with new service <http://www.computerworld.com/article/2837494/data-center-cloud/amazon-takes-aim-at-microsofts-active-directory-with-new-service.html>`_
 * 25/09/2015: `Hackers invadem computadores e celulares e sequestram dados <http://g1.globo.com/fantastico/noticia/2015/10/hackers-invadem-computadores-e-celulares-e-sequestram-dados.html>`_
 * 18/09/2015: `Microsoft está criando a sua própria distribuição do Linux <Microsoft está criando a sua própria distribuição do Linux>`_
 * 18/09/2015: `Whoa. Microsoft Is Using Linux to Run Its Cloud <http://www.wired.com/2015/09/microsoft-using-linux-run-cloud/>`_
