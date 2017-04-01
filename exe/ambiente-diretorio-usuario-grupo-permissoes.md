@@ -10,7 +10,7 @@
 
 * Qual o conteúdo da variáveis MAIL, USER e SHELL?
 
-
+<a name="diretorio">
 ## Diretório
 
 
@@ -58,7 +58,8 @@
         * Réptil
         *  Ave
         * Mamífero
-
+        
+<a name="usuarios">
 ## Usuário
 
 * Qual o UID do usuário *lorem*?
@@ -67,6 +68,7 @@
 
 * Crie três usuários para os professores fictícios *fulano*, *beltrano* e *sicrano*.
 
+<a name="grupos">
 ## Grupo
 
 * Quais usuários pertencem ao grupo *hendrerit*?
@@ -75,6 +77,7 @@
 
 * Quais usuários podem executar comandos administrativos via *sudo*?
 
+<a name="permissoes">
 ## Permissões
 
 * Sobre o arquivo */etc/ssh/ssh_host_dsa_key*, pergunta-se:
