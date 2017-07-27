@@ -22,7 +22,7 @@ Faça um programa em Shell Script com os seguintes requisitos:
 
 Referências:
 
-* `[Linux Magazine] Bapo de botequim (http://www.linuxmagazine.com.br/lm/noticia/baixe_o_curso_de_shell_script_do_julio_cezar_neves) <http://www.linuxmagazine.com.br/lm/noticia/baixe_o_curso_de_shell_script_do_julio_cezar_neves>`_
+* `[Linux Magazine] Bapo de botequim <http://www.linuxmagazine.com.br/lm/noticia/baixe_o_curso_de_shell_script_do_julio_cezar_neves>`_
 * `[Devin] Programando em shell script (http://www.devin.com.br/shell_script) <http://www.devin.com.br/shell_script>`_
 * `[Devin] Shell: Entrada e Saída (http://www.devin.com.br/shell-entrada-e-saida/) <http://www.devin.com.br/shell-entrada-e-saida/>`_
 * `[Devin] Shell Script: tratamento de argumentos e opções (http://www.devin.com.br/shell-script-tratamento-de-argumentos-e-opcoes/) <http://www.devin.com.br/shell-script-tratamento-de-argumentos-e-opcoes/>`_
