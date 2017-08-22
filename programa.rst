@@ -91,10 +91,10 @@ Bases Científico-Tecnológicas (Conteúdos)
   11. Gerenciando acesso a recursos
 
       #. Permissões NTFS
-    * Compartilhamento e proteção de recursos de rede
-    * Controle de acesso a objetos do Active Directory
-    * Delegação de Administração
-    * Pastas offline
+      #.  Compartilhamento e proteção de recursos de rede
+      #.  Controle de acesso a objetos do Active Directory
+      #.  Delegação de Administração
+      #.  Pastas offline
 
   12. Diretivas de domínio e políticas de grupos
   13. Políticas de auditoria: auditoria de eventos
