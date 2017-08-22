@@ -31,66 +31,66 @@ Bases Científico-Tecnológicas (Conteúdos)
 
   1. Introdução ao sistema operacional Linux
 
-    * Histórico
-    * Distribuições
-    * O Linux no mercado de sistemas operacionais
+     #. Histórico
+     #. Distribuições
+     #. O Linux no mercado de sistemas operacionais
 
   2. Instalação do Linux
 
-    * Visão dos sistemas de arquivos suportados pelo Linux
-    * Estratégias para particionamento do disco
-    * Instalação do sistema operacional
+     #. Visão dos sistemas de arquivos suportados pelo Linux
+     #. Estratégias para particionamento do disco
+     #. Instalação do sistema operacional
 
   3. Configuração do sistema operacional
 
-    * Escolha do ambiente gráfico
-    * Escolha do interpretador de comandos
-    * Configuração básica de periféricos
+     #. Escolha do ambiente gráfico
+     #. Escolha do interpretador de comandos
+     #. Configuração básica de periféricos
 
   4. Utilização de ambiente gráfico
 
-    * Personalização das configurações do ambiente gráfico
-    * Aplicativos de escritório
-    * Aplicativos de Internet
-    * Utilitários
-    * Ferramentas de desenvolvimento
+     #. Personalização das configurações do ambiente gráfico
+     #. Aplicativos de escritório
+     #. Aplicativos de Internet
+     #. Utilitários
+     #. Ferramentas de desenvolvimento
 
   5. Comandos básicos do sistema
 
   6. Introdução à administração do sistema operacional
 
-    * Criação de grupos e contas de usuários
-    * Definição de cotas de disco
-    * Permissões sobre arquivos e diretórios
-    * Tratamento de processos
-    * Configurações de rede
-    * Iniciação e encerramento da execução de serviços do Linux
-    * Manutenção de pacotes de programas do Linux
+     #. Criação de grupos e contas de usuários
+     #. Definição de cotas de disco
+     #. Permissões sobre arquivos e diretórios
+     #. Tratamento de processos
+     #. Configurações de rede
+     #. Iniciação e encerramento da execução de serviços do Linux
+     #. Manutenção de pacotes de programas do Linux
     
 * Sistema Operacional proprietário (WINDOWS) (60 h/a)
 
   7. Visão geral da família Windows
   8. Instalação e configuração do sistema operacional Windows Server
 
-    * Introdução e instalação do Active Directory no Windows
-    * Instalação e configuração de ferramentas Administrativas
+     #. Introdução e instalação do Active Directory no Windows
+     #. Instalação e configuração de ferramentas Administrativas
 
   9. Administração e gerenciamento de contas de usuários e recursos
 
-    * Criação e configuração de contas de usuários e grupos no Active Directory
-    * Criação de unidades organizacionais
-    * Perfil de usuários
-    * Scripts de logon
-    * Quotas para usuários
-    * Administração de templates
+     #. Criação e configuração de contas de usuários e grupos no Active Directory
+     #. Criação de unidades organizacionais
+     #. Perfil de usuários
+     #. Scripts de logon
+     #. Quotas para usuários
+     #. Administração de templates
 
   10. Criação de redes cliente-servidor
 
-    * Login através de estações de trabalho cliente
+     #. Login através de estações de trabalho cliente
 
   11. Gerenciando acesso a recursos
 
-    * Permissões NTFS
+      #. Permissões NTFS
     * Compartilhamento e proteção de recursos de rede
     * Controle de acesso a objetos do Active Directory
     * Delegação de Administração
