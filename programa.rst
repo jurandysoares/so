@@ -86,7 +86,7 @@ Bases Científico-Tecnológicas (Conteúdos)
 
   10. Criação de redes cliente-servidor
 
-     #. Login através de estações de trabalho cliente
+      #. Login através de estações de trabalho cliente
 
   11. Gerenciando acesso a recursos
 
